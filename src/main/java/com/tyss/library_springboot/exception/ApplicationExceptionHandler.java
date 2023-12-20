@@ -1,6 +1,6 @@
 package com.tyss.library_springboot.exception;
 
-import com.tyss.library_springboot.entity.ResponseStructure;
+import com.tyss.library_springboot.structure.ResponseStructure;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

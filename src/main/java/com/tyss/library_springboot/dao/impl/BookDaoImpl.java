@@ -1,7 +1,7 @@
 package com.tyss.library_springboot.dao.impl;
 
 import com.tyss.library_springboot.dao.BookDao;
-import com.tyss.library_springboot.dto.Book;
+import com.tyss.library_springboot.entity.Book;
 import com.tyss.library_springboot.exception.NoSuchBookFoundException;
 import com.tyss.library_springboot.repo.BookRepo;
 import org.springframework.beans.factory.annotation.Autowired;

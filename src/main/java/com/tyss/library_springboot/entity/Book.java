@@ -1,4 +1,4 @@
-package com.tyss.library_springboot.dto;
+package com.tyss.library_springboot.entity;
 
 import lombok.Data;
 import org.springframework.data.mongodb.core.mapping.Document;

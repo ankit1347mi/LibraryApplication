@@ -1,6 +1,6 @@
 package com.tyss.library_springboot.dao;
 
-import com.tyss.library_springboot.dto.Book;
+import com.tyss.library_springboot.entity.Book;
 
 import java.util.List;
 

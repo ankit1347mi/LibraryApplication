@@ -1,4 +1,4 @@
-package com.tyss.library_springboot.entity;
+package com.tyss.library_springboot.structure;
 
 import lombok.Data;
 

@@ -1,9 +1,8 @@
 package com.tyss.library_springboot.controller;
 
-import com.tyss.library_springboot.dto.Book;
-import com.tyss.library_springboot.entity.ResponseStructure;
+import com.tyss.library_springboot.entity.Book;
+import com.tyss.library_springboot.structure.ResponseStructure;
 import com.tyss.library_springboot.service.BookService;
-import com.tyss.library_springboot.service.impl.BookServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

@@ -1,6 +1,6 @@
 package com.tyss.library_springboot.repo;
 
-import com.tyss.library_springboot.dto.Book;
+import com.tyss.library_springboot.entity.Book;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 
